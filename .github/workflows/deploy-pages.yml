@@ -19,7 +19,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -32,7 +31,7 @@ jobs:
         run: npm run build
         working-directory: app
 
-      # copia il dataset nel sito generato (la tua pipeline lo scrive in public/)
+      # Copia il dataset pubblico nel sito generato
       - name: Copy datasets.json into site
         run: cp public/datasets.json app/dist/datasets.json
 
