@@ -1,0 +1,692 @@
+{
+  "generatedAt": "2025-10-01T19:12:36.986Z",
+  "totals": {
+    "contacts": 4728
+  },
+  "datasets": {
+    "per_lista_ids": [
+      {
+        "label": "2",
+        "count": 4576
+      },
+      {
+        "label": "6",
+        "count": 2869
+      },
+      {
+        "label": "7",
+        "count": 2492
+      },
+      {
+        "label": "67",
+        "count": 2198
+      },
+      {
+        "label": "69",
+        "count": 2116
+      },
+      {
+        "label": "45",
+        "count": 2005
+      },
+      {
+        "label": "49",
+        "count": 1409
+      },
+      {
+        "label": "22",
+        "count": 1171
+      },
+      {
+        "label": "51",
+        "count": 1035
+      },
+      {
+        "label": "8",
+        "count": 760
+      },
+      {
+        "label": "78",
+        "count": 753
+      },
+      {
+        "label": "34",
+        "count": 703
+      },
+      {
+        "label": "64",
+        "count": 678
+      },
+      {
+        "label": "70",
+        "count": 616
+      },
+      {
+        "label": "58",
+        "count": 524
+      },
+      {
+        "label": "65",
+        "count": 438
+      },
+      {
+        "label": "81",
+        "count": 435
+      },
+      {
+        "label": "33",
+        "count": 400
+      },
+      {
+        "label": "48",
+        "count": 378
+      },
+      {
+        "label": "71",
+        "count": 346
+      },
+      {
+        "label": "37",
+        "count": 345
+      },
+      {
+        "label": "80",
+        "count": 318
+      },
+      {
+        "label": "25",
+        "count": 317
+      },
+      {
+        "label": "55",
+        "count": 207
+      },
+      {
+        "label": "38",
+        "count": 183
+      },
+      {
+        "label": "39",
+        "count": 178
+      },
+      {
+        "label": "50",
+        "count": 161
+      },
+      {
+        "label": "42",
+        "count": 157
+      },
+      {
+        "label": "57",
+        "count": 149
+      },
+      {
+        "label": "62",
+        "count": 145
+      },
+      {
+        "label": "47",
+        "count": 117
+      },
+      {
+        "label": "52",
+        "count": 106
+      },
+      {
+        "label": "46",
+        "count": 102
+      },
+      {
+        "label": "82",
+        "count": 100
+      },
+      {
+        "label": "54",
+        "count": 81
+      },
+      {
+        "label": "41",
+        "count": 80
+      },
+      {
+        "label": "66",
+        "count": 63
+      },
+      {
+        "label": "40",
+        "count": 62
+      },
+      {
+        "label": "63",
+        "count": 35
+      },
+      {
+        "label": "30",
+        "count": 30
+      },
+      {
+        "label": "68",
+        "count": 29
+      },
+      {
+        "label": "11",
+        "count": 28
+      },
+      {
+        "label": "19",
+        "count": 22
+      },
+      {
+        "label": "26",
+        "count": 19
+      },
+      {
+        "label": "28",
+        "count": 12
+      },
+      {
+        "label": "44",
+        "count": 11
+      },
+      {
+        "label": "9",
+        "count": 11
+      },
+      {
+        "label": "61",
+        "count": 6
+      },
+      {
+        "label": "12",
+        "count": 5
+      },
+      {
+        "label": "13",
+        "count": 5
+      },
+      {
+        "label": "32",
+        "count": 4
+      },
+      {
+        "label": "15",
+        "count": 2
+      },
+      {
+        "label": "60",
+        "count": 2
+      },
+      {
+        "label": "16",
+        "count": 1
+      },
+      {
+        "label": "17",
+        "count": 1
+      }
+    ],
+    "distribuzione_atenei": [
+      {
+        "label": "Bari Aldo Moro, sedi di Bari e Taranto",
+        "count": 233
+      },
+      {
+        "label": "Roma La Sapienza, sedi di Roma Policlinico Umberto I",
+        "count": 232
+      },
+      {
+        "label": "Palermo",
+        "count": 181
+      },
+      {
+        "label": "Napoli Federico II",
+        "count": 176
+      },
+      {
+        "label": "Bologna, sedi di Bologna, Forlì, Ravenna",
+        "count": 163
+      },
+      {
+        "label": "Roma Cattolica del Sacro Cuore",
+        "count": 157
+      },
+      {
+        "label": "Sassari",
+        "count": 136
+      },
+      {
+        "label": "Università estere",
+        "count": 127
+      },
+      {
+        "label": "Ferrara",
+        "count": 116
+      },
+      {
+        "label": "Catanzaro Magna Grecia, sedi di Catanzaro e Rende",
+        "count": 102
+      },
+      {
+        "label": "Modena e Reggio Emilia",
+        "count": 102
+      },
+      {
+        "label": "Firenze",
+        "count": 99
+      },
+      {
+        "label": "Torino",
+        "count": 97
+      },
+      {
+        "label": "Catania",
+        "count": 91
+      },
+      {
+        "label": "Salerno",
+        "count": 90
+      },
+      {
+        "label": "Campania L. Vanvitelli, sedi di Caserta e Napoli",
+        "count": 87
+      },
+      {
+        "label": "Genova",
+        "count": 86
+      },
+      {
+        "label": "Milano Statale",
+        "count": 83
+      },
+      {
+        "label": "Seleziona il tuo ateneo:",
+        "count": 83
+      },
+      {
+        "label": "Piemonte Orientale",
+        "count": 81
+      },
+      {
+        "label": "Cagliari",
+        "count": 73
+      },
+      {
+        "label": "Siena",
+        "count": 73
+      },
+      {
+        "label": "Messina",
+        "count": 71
+      },
+      {
+        "label": "Brescia",
+        "count": 67
+      },
+      {
+        "label": "Roma Campus Bio-Medico",
+        "count": 65
+      },
+      {
+        "label": "Molise",
+        "count": 61
+      },
+      {
+        "label": "Roma Tor Vergata",
+        "count": 61
+      },
+      {
+        "label": "Parma",
+        "count": 57
+      },
+      {
+        "label": "Milano San Raffaele",
+        "count": 55
+      },
+      {
+        "label": "Chieti – Pescara G. d’Annunzio",
+        "count": 54
+      },
+      {
+        "label": "Padova, sedi di Padova e Treviso",
+        "count": 54
+      },
+      {
+        "label": "Perugia, sedi di Perugia e Terni",
+        "count": 48
+      },
+      {
+        "label": "L’Aquila",
+        "count": 43
+      },
+      {
+        "label": "Pisa",
+        "count": 41
+      },
+      {
+        "label": "Pavia",
+        "count": 40
+      },
+      {
+        "label": "Trieste",
+        "count": 40
+      },
+      {
+        "label": "Verona",
+        "count": 39
+      },
+      {
+        "label": "Foggia",
+        "count": 37
+      },
+      {
+        "label": "Milano Humanitas University",
+        "count": 35
+      },
+      {
+        "label": "Milano Bicocca",
+        "count": 34
+      },
+      {
+        "label": "Politecnica delle Marche",
+        "count": 34
+      },
+      {
+        "label": "Roma UniCamillus",
+        "count": 32
+      },
+      {
+        "label": "Insubria",
+        "count": 28
+      },
+      {
+        "label": "Casamassima LUM – Giuseppe Degennaro",
+        "count": 23
+      },
+      {
+        "label": "Udine",
+        "count": 19
+      },
+      {
+        "label": "Enna Università Kore",
+        "count": 14
+      },
+      {
+        "label": "Basilicata",
+        "count": 10
+      },
+      {
+        "label": "Trento",
+        "count": 7
+      },
+      {
+        "label": "Calabria",
+        "count": 5
+      },
+      {
+        "label": "Altro (k<5)",
+        "count": 17
+      }
+    ],
+    "distribuzione_corsi": [
+      {
+        "label": "CORSO FULL SSM 2026  (BORSA DI STUDIO SECRET SSM)",
+        "count": 678
+      },
+      {
+        "label": "Corso Focus SSM 2025",
+        "count": 14
+      },
+      {
+        "label": "CORSO FULL SSM 2026 (IN PROMO COL 30% DI SCONTO FINO AL 30 SETTEMBRE)",
+        "count": 11
+      },
+      {
+        "label": "CORSO FULL SSM 2026  (SE ENTRI È GRATIS)",
+        "count": 8
+      },
+      {
+        "label": "CORSO BIENNALE SSM 2027",
+        "count": 7
+      },
+      {
+        "label": "CORSO ONE MORE TIMESSM 2026",
+        "count": 7
+      },
+      {
+        "label": "CORSO FULL SSM 2026 (IN PROMO COL 40% DI SCONTO FINO AL 31 AGOSTO)",
+        "count": 6
+      },
+      {
+        "label": "Corso Full SSM 2026 (in Promo col 65% di sconto fino al 21 luglio)",
+        "count": 6
+      },
+      {
+        "label": "Corso Full SSM 2026 (in Promo col 40% di sconto fino al 31 agosto)",
+        "count": 5
+      },
+      {
+        "label": "Altro (k<5)",
+        "count": 20
+      }
+    ],
+    "distribuzione_anno_nascita": [
+      {
+        "label": "2000",
+        "count": 514
+      },
+      {
+        "label": "2001",
+        "count": 498
+      },
+      {
+        "label": "1999",
+        "count": 370
+      },
+      {
+        "label": "1998",
+        "count": 227
+      },
+      {
+        "label": "2002",
+        "count": 174
+      },
+      {
+        "label": "1997",
+        "count": 117
+      },
+      {
+        "label": "1996",
+        "count": 91
+      },
+      {
+        "label": "1995",
+        "count": 59
+      },
+      {
+        "label": "1994",
+        "count": 45
+      },
+      {
+        "label": "1993",
+        "count": 44
+      },
+      {
+        "label": "2003",
+        "count": 44
+      },
+      {
+        "label": "1990",
+        "count": 34
+      },
+      {
+        "label": "1992",
+        "count": 34
+      },
+      {
+        "label": "1991",
+        "count": 24
+      },
+      {
+        "label": "1987",
+        "count": 19
+      },
+      {
+        "label": "2004",
+        "count": 15
+      },
+      {
+        "label": "1982",
+        "count": 14
+      },
+      {
+        "label": "1984",
+        "count": 11
+      },
+      {
+        "label": "1988",
+        "count": 11
+      },
+      {
+        "label": "2009",
+        "count": 11
+      },
+      {
+        "label": "1989",
+        "count": 10
+      },
+      {
+        "label": "1983",
+        "count": 9
+      },
+      {
+        "label": "1986",
+        "count": 8
+      },
+      {
+        "label": "1976",
+        "count": 7
+      },
+      {
+        "label": "2006",
+        "count": 7
+      },
+      {
+        "label": "1974",
+        "count": 6
+      },
+      {
+        "label": "1979",
+        "count": 6
+      },
+      {
+        "label": "1969",
+        "count": 5
+      },
+      {
+        "label": "1977",
+        "count": 5
+      },
+      {
+        "label": "1985",
+        "count": 5
+      },
+      {
+        "label": "2005",
+        "count": 4
+      },
+      {
+        "label": "1975",
+        "count": 3
+      },
+      {
+        "label": "1978",
+        "count": 3
+      },
+      {
+        "label": "2008",
+        "count": 3
+      },
+      {
+        "label": "1950",
+        "count": 2
+      },
+      {
+        "label": "1955",
+        "count": 2
+      },
+      {
+        "label": "1968",
+        "count": 2
+      },
+      {
+        "label": "1971",
+        "count": 2
+      },
+      {
+        "label": "1973",
+        "count": 2
+      },
+      {
+        "label": "1980",
+        "count": 2
+      },
+      {
+        "label": "1981",
+        "count": 2
+      },
+      {
+        "label": "2007",
+        "count": 2
+      },
+      {
+        "label": "1952",
+        "count": 1
+      },
+      {
+        "label": "1954",
+        "count": 1
+      },
+      {
+        "label": "1956",
+        "count": 1
+      },
+      {
+        "label": "1957",
+        "count": 1
+      },
+      {
+        "label": "1959",
+        "count": 1
+      },
+      {
+        "label": "1961",
+        "count": 1
+      },
+      {
+        "label": "1962",
+        "count": 1
+      },
+      {
+        "label": "1963",
+        "count": 1
+      },
+      {
+        "label": "1964",
+        "count": 1
+      },
+      {
+        "label": "1970",
+        "count": 1
+      },
+      {
+        "label": "1972",
+        "count": 1
+      },
+      {
+        "label": "2012",
+        "count": 1
+      }
+    ]
+  }
+}
