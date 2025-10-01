@@ -1,0 +1,38 @@
+name: Brevo API Smoke Test (no PII)
+
+on:
+  workflow_dispatch: {}  # avvio manuale
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verifica che il secret esista
+        run: test -n "${{ secrets.BREVO_API_KEY }}" || (echo "Missing BREVO_API_KEY"; exit 1)
+
+      - name: Installa jq (per contare in sicurezza, niente PII)
+        run: sudo apt-get update -y && sudo apt-get install -y jq
+
+      - name: Chiamata Brevo /contacts (limit=1) — solo conteggio
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+        run: |
+          set -euo pipefail
+          curl -sS -f \
+            -H "api-key: $BREVO_API_KEY" \
+            -H "accept: application/json" \
+            "https://api.brevo.com/v3/contacts?limit=1" -o resp0.json
+          COUNT0=$(jq '(.contacts|length) // (.items|length) // 0' resp0.json)
+          echo "✅ Auth OK. Page0 size: $COUNT0"
+
+      - name: Chiamata Brevo /contacts (limit=1000, offset=1000) — solo conteggio
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+        run: |
+          set -euo pipefail
+          curl -sS -f \
+            -H "api-key: $BREVO_API_KEY" \
+            -H "accept: application/json" \
+            "https://api.brevo.com/v3/contacts?limit=1000&offset=1000" -o resp1.json
+          COUNT1=$(jq '(.contacts|length) // (.items|length) // 0' resp1.json)
+          echo "ℹ️ Page1 size: $COUNT1"
